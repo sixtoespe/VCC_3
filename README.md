@@ -135,12 +135,13 @@ git push -u origin feature/star-map
 
 ## 📖 Documentation
 
-For fuller documentation, visit the **[NovaQuest Interactive Wiki](https://github.com/sixtoespe/novaquest-interactive/wiki)**:
+For fuller documentation, visit the **[NovaQuest Interactive Wiki](https://github.com/sixtoespe/VCC_3/wiki)**:
 
-- [Home](https://github.com/sixtoespe/novaquest-interactive/wiki)
-- [Installation and Setup](https://github.com/sixtoespe/novaquest-interactive/wiki/Installation-and-Setup)
-- [Features and Usage](https://github.com/sixtoespe/novaquest-interactive/wiki/Features-and-Usage)
-- [Contributing and Project Info](https://github.com/sixtoespe/novaquest-interactive/wiki/Contributing-and-Project-Info)
+- [Home](https://github.com/sixtoespe/VCC_3/wiki)
+- [Contributing and Project Info](https://github.com/sixtoespe/VCC_3/wiki/Contributing-and-Project-Info)
+- [Features and Usage](https://github.com/sixtoespe/VCC_3/wiki/Features-and-Usage)
+- [Installation and Setup](https://github.com/sixtoespe/VCC_3/wiki/Installation-and-Setup)
+
 
 ## 👨‍💻 Author
 
